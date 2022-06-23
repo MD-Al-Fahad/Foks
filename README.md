@@ -1,4 +1,4 @@
 # Light House
-       I will be successfull oneday insha Allah
+       I will be successful oneday insha Allah
 # Demo
 Sust CSE 20
